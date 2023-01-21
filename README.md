@@ -1,4 +1,5 @@
 # Pong para jogar "https://editor.p5js.org/alefapmdev/sketches/7sjIe8ilF"
+# Para ver o codigo ir em "sketch.js".
 
 Jogo criado seguindo as instruções da Alura usando JS no "https://p5js.org/".
 O jogo pode ser jogado singleplayer ou multiplayer, ele esta defaut single player,
